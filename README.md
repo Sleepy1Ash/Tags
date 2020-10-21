@@ -22,8 +22,13 @@ Underline 2
 # Link
 <a href="https://www.google.com/">esto es un link
 ## imagen
-![logio del proyecto](https://www.pinterest.com.mx/pin/851461873294891888/¿w=1600&h=900)
+![logio del proyecto](https://i.pinimg.com/originals/37/27/fd/3727fd111f770cfb2960950c57542f4b.jpg w=1600&h=900)
 ### tabla
 |nombre|apellido|
 |------|--------|
 |fasuto|perez|
+## citas
+>esto es una sita
+  texto normal
+  >esto es una sita
+  texto normal
