@@ -11,3 +11,5 @@ Underline 2
 # hola
 formato *cursiva*
 formato _cursiva_
+formato **negrita**
+formato __negrita__
