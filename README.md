@@ -22,7 +22,7 @@ Underline 2
 # Link
 <a href="https://www.google.com/">esto es un link
 ## imagen
-![logo del proyecto](https://i.pinimg.com/originals/37/27/fd/3727fd111f770cfb2960950c57542f4b.jpgw=1600&h=900)
+!{logo del proyecto}(https://i.pinimg.com/originals/37/27/fd/3727fd111f770cfb2960950c57542f4b.jpgw=1600&h=900)
 ### tabla
 |nombre|apellido|
 |------|--------|
