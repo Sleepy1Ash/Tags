@@ -9,3 +9,5 @@ _________
 Underline 2
 ===========
 # hola
+formato *cursiva*
+formato _cursiva_
