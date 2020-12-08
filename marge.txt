@@ -1,0 +1,4 @@
+Este documento solo existe en una rama externa.
+Mip
+Esto ocurre en otro sistema
+Se vuelve a alterar el archivo.
